@@ -1,2 +1,2 @@
 # Anime-Chatbot
-This chatbot gives recommendation for anime preferences
+This chatbot gives recommendations for anime preferences.
